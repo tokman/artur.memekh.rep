@@ -1,0 +1,179 @@
+2014-09-30 17:35:07 INFO  Test:24 - Please, enter a number of an action you want...
+2014-09-30 17:35:07 INFO  Test:25 - 1. Load class field 'num'
+2014-09-30 17:35:07 INFO  Test:26 - 2. Load class field 'str'
+2014-09-30 17:35:07 INFO  Test:27 - 3. Exit from the program
+2014-09-30 17:35:20 INFO  Test:56 - str = This is SPARTA!!!
+2014-09-30 17:35:20 INFO  Test:24 - Please, enter a number of an action you want...
+2014-09-30 17:35:20 INFO  Test:25 - 1. Load class field 'num'
+2014-09-30 17:35:20 INFO  Test:26 - 2. Load class field 'str'
+2014-09-30 17:35:20 INFO  Test:27 - 3. Exit from the program
+2014-09-30 17:35:32 INFO  Test:24 - Please, enter a number of an action you want...
+2014-09-30 17:35:32 INFO  Test:25 - 1. Load class field 'num'
+2014-09-30 17:35:32 INFO  Test:26 - 2. Load class field 'str'
+2014-09-30 17:35:32 INFO  Test:27 - 3. Exit from the program
+2014-09-30 17:38:01 INFO  Test:24 - Please, enter a number of an action you want...
+2014-09-30 17:38:01 INFO  Test:25 - 1. Load class name
+2014-09-30 17:38:01 INFO  Test:26 - 2. Load class field 'str'
+2014-09-30 17:38:01 INFO  Test:27 - 3. Exit from the program
+2014-09-30 17:38:06 INFO  Test:74 - class name is = com.epam.jmp.classloading.ClassToLoad
+2014-09-30 17:38:06 INFO  Test:24 - Please, enter a number of an action you want...
+2014-09-30 17:38:06 INFO  Test:25 - 1. Load class name
+2014-09-30 17:38:06 INFO  Test:26 - 2. Load class field 'str'
+2014-09-30 17:38:06 INFO  Test:27 - 3. Exit from the program
+2014-09-30 17:38:14 INFO  Test:56 - str = This is SPARTA!!!
+2014-09-30 17:38:14 INFO  Test:24 - Please, enter a number of an action you want...
+2014-09-30 17:38:14 INFO  Test:25 - 1. Load class name
+2014-09-30 17:38:14 INFO  Test:26 - 2. Load class field 'str'
+2014-09-30 17:38:14 INFO  Test:27 - 3. Exit from the program
+2014-09-30 17:58:46 INFO  Test:24 - Please, enter a number of an action you want...
+2014-09-30 17:58:46 INFO  Test:25 - 1. Load class name
+2014-09-30 17:58:46 INFO  Test:26 - 2. Load class field 'str'
+2014-09-30 17:58:46 INFO  Test:27 - 3. Exit from the program
+2014-09-30 17:58:50 INFO  Test:74 - class name is = com.epam.jmp.classloading.ClassToLoad
+2014-09-30 17:58:50 INFO  Test:24 - Please, enter a number of an action you want...
+2014-09-30 17:58:50 INFO  Test:25 - 1. Load class name
+2014-09-30 17:58:50 INFO  Test:26 - 2. Load class field 'str'
+2014-09-30 17:58:50 INFO  Test:27 - 3. Exit from the program
+2014-09-30 17:58:52 INFO  Test:56 - str = This is SPARTANS!!!
+2014-09-30 17:58:52 INFO  Test:24 - Please, enter a number of an action you want...
+2014-09-30 17:58:52 INFO  Test:25 - 1. Load class name
+2014-09-30 17:58:52 INFO  Test:26 - 2. Load class field 'str'
+2014-09-30 17:58:52 INFO  Test:27 - 3. Exit from the program
+2014-09-30 17:59:10 INFO  Test:74 - class name is = com.epam.jmp.classloading.ClassToLoad
+2014-09-30 17:59:10 INFO  Test:24 - Please, enter a number of an action you want...
+2014-09-30 17:59:10 INFO  Test:25 - 1. Load class name
+2014-09-30 17:59:10 INFO  Test:26 - 2. Load class field 'str'
+2014-09-30 17:59:10 INFO  Test:27 - 3. Exit from the program
+2014-09-30 17:59:12 INFO  Test:56 - str = This is SPARTANS!!!
+2014-09-30 17:59:12 INFO  Test:24 - Please, enter a number of an action you want...
+2014-09-30 17:59:12 INFO  Test:25 - 1. Load class name
+2014-09-30 17:59:12 INFO  Test:26 - 2. Load class field 'str'
+2014-09-30 17:59:12 INFO  Test:27 - 3. Exit from the program
+2014-09-30 18:10:51 INFO  Test:24 - Please, enter a number of an action you want...
+2014-09-30 18:10:51 INFO  Test:25 - 1. Load class name
+2014-09-30 18:10:51 INFO  Test:26 - 2. Load class field 'str'
+2014-09-30 18:10:51 INFO  Test:27 - 3. Exit from the program
+2014-09-30 18:10:54 INFO  Test:74 - class name is = com.epam.jmp.classloading.ClassToLoad
+2014-09-30 18:10:54 INFO  Test:24 - Please, enter a number of an action you want...
+2014-09-30 18:10:54 INFO  Test:25 - 1. Load class name
+2014-09-30 18:10:54 INFO  Test:26 - 2. Load class field 'str'
+2014-09-30 18:10:54 INFO  Test:27 - 3. Exit from the program
+2014-09-30 18:11:12 INFO  Test:56 - str = This is SPARTA!!!
+2014-09-30 18:11:12 INFO  Test:24 - Please, enter a number of an action you want...
+2014-09-30 18:11:12 INFO  Test:25 - 1. Load class name
+2014-09-30 18:11:12 INFO  Test:26 - 2. Load class field 'str'
+2014-09-30 18:11:12 INFO  Test:27 - 3. Exit from the program
+2014-09-30 18:14:21 INFO  Test:56 - str = This is SPARTA!!!
+2014-09-30 18:14:21 INFO  Test:24 - Please, enter a number of an action you want...
+2014-09-30 18:14:21 INFO  Test:25 - 1. Load class name
+2014-09-30 18:14:21 INFO  Test:26 - 2. Load class field 'str'
+2014-09-30 18:14:21 INFO  Test:27 - 3. Exit from the program
+2014-09-30 18:14:46 INFO  Test:56 - str = This is SPARTA!!!
+2014-09-30 18:14:46 INFO  Test:24 - Please, enter a number of an action you want...
+2014-09-30 18:14:46 INFO  Test:25 - 1. Load class name
+2014-09-30 18:14:46 INFO  Test:26 - 2. Load class field 'str'
+2014-09-30 18:14:46 INFO  Test:27 - 3. Exit from the program
+2014-10-01 11:06:28 INFO  Test:25 - Please, enter a number of an action you want...
+2014-10-01 11:06:28 INFO  Test:26 - 1. Load class name
+2014-10-01 11:06:28 INFO  Test:27 - 2. Load class fields
+2014-10-01 11:06:28 INFO  Test:28 - 3. Exit from the program
+2014-10-01 11:06:34 ERROR Test:74 - Class has not been found.
+2014-10-01 11:09:31 INFO  Test:25 - Please, enter a number of an action you want...
+2014-10-01 11:09:31 INFO  Test:26 - 1. Load class name
+2014-10-01 11:09:31 INFO  Test:27 - 2. Load class fields
+2014-10-01 11:09:31 INFO  Test:28 - 3. Exit from the program
+2014-10-01 11:12:20 ERROR Test:74 - Class has not been found.
+2014-10-01 11:13:15 INFO  Test:25 - Please, enter a number of an action you want...
+2014-10-01 11:13:15 INFO  Test:26 - 1. Load class name
+2014-10-01 11:13:15 INFO  Test:27 - 2. Load class fields
+2014-10-01 11:13:15 INFO  Test:28 - 3. Exit from the program
+2014-10-01 11:13:19 ERROR Test:74 - Class has not been found.
+2014-10-01 11:14:31 INFO  Test:25 - Please, enter a number of an action you want...
+2014-10-01 11:14:31 INFO  Test:26 - 1. Load class name
+2014-10-01 11:14:31 INFO  Test:27 - 2. Load class fields
+2014-10-01 11:14:31 INFO  Test:28 - 3. Exit from the program
+2014-10-01 11:16:05 ERROR Test:74 - Class has not been found.
+2014-10-01 11:51:12 INFO  Test:26 - Please, enter a number of an action you want...
+2014-10-01 11:51:12 INFO  Test:27 - 1. Load class name
+2014-10-01 11:51:12 INFO  Test:28 - 2. Load class fields
+2014-10-01 11:51:12 INFO  Test:29 - 3. Exit from the program
+2014-10-01 12:16:50 INFO  Test:30 - Please, enter a number of an action you want...
+2014-10-01 12:16:50 INFO  Test:31 - 1. Load class name
+2014-10-01 12:16:50 INFO  Test:32 - 2. Load class fields
+2014-10-01 12:16:50 INFO  Test:33 - 3. Exit from the program
+2014-10-01 12:18:18 INFO  Test:30 - Please, enter a number of an action you want...
+2014-10-01 12:18:18 INFO  Test:31 - 1. Load class name
+2014-10-01 12:18:18 INFO  Test:32 - 2. Load class fields
+2014-10-01 12:18:18 INFO  Test:33 - 3. Exit from the program
+2014-10-01 12:37:00 INFO  Test:30 - Please, enter a number of an action you want...
+2014-10-01 12:37:00 INFO  Test:31 - 1. Load class name
+2014-10-01 12:37:00 INFO  Test:32 - 2. Load class fields
+2014-10-01 12:37:00 INFO  Test:33 - 3. Exit from the program
+2014-10-01 12:37:03 INFO  Test:68 - class name is = com.epam.jmp.classloading.ClassToLoad
+2014-10-01 12:37:03 INFO  Test:30 - Please, enter a number of an action you want...
+2014-10-01 12:37:03 INFO  Test:31 - 1. Load class name
+2014-10-01 12:37:03 INFO  Test:32 - 2. Load class fields
+2014-10-01 12:37:03 INFO  Test:33 - 3. Exit from the program
+2014-10-01 12:37:13 INFO  Test:60 - class name is = [Ljava.lang.reflect.Field;@33802324
+2014-10-01 12:37:13 INFO  Test:30 - Please, enter a number of an action you want...
+2014-10-01 12:37:13 INFO  Test:31 - 1. Load class name
+2014-10-01 12:37:13 INFO  Test:32 - 2. Load class fields
+2014-10-01 12:37:13 INFO  Test:33 - 3. Exit from the program
+2014-10-01 12:43:41 ERROR Test:51 - Your input is wrong or empty. Please enter only digits.
+2014-10-01 12:46:52 INFO  Test:30 - Please, enter a number of an action you want...
+2014-10-01 12:46:52 INFO  Test:31 - 1. Load class name
+2014-10-01 12:46:52 INFO  Test:32 - 2. Load class fields
+2014-10-01 12:46:52 INFO  Test:33 - 3. Exit from the program
+2014-10-01 12:46:54 INFO  Test:68 - class name is = com.epam.jmp.classloading.ClassToLoad
+2014-10-01 12:46:54 INFO  Test:30 - Please, enter a number of an action you want...
+2014-10-01 12:46:54 INFO  Test:31 - 1. Load class name
+2014-10-01 12:46:54 INFO  Test:32 - 2. Load class fields
+2014-10-01 12:46:54 INFO  Test:33 - 3. Exit from the program
+2014-10-01 12:46:57 INFO  Test:60 - class fields are = [Ljava.lang.reflect.Field;@21832ae6
+2014-10-01 12:46:57 INFO  Test:30 - Please, enter a number of an action you want...
+2014-10-01 12:46:57 INFO  Test:31 - 1. Load class name
+2014-10-01 12:46:57 INFO  Test:32 - 2. Load class fields
+2014-10-01 12:46:57 INFO  Test:33 - 3. Exit from the program
+2014-10-01 12:50:23 INFO  Test:30 - Please, enter a number of an action you want...
+2014-10-01 12:50:23 INFO  Test:31 - 1. Load class name
+2014-10-01 12:50:23 INFO  Test:32 - 2. Load class fields
+2014-10-01 12:50:23 INFO  Test:33 - 3. Exit from the program
+2014-10-01 12:50:26 ERROR Test:95 - Jar file initialization error.
+2014-10-01 12:50:26 INFO  Test:30 - Please, enter a number of an action you want...
+2014-10-01 12:50:26 INFO  Test:31 - 1. Load class name
+2014-10-01 12:50:26 INFO  Test:32 - 2. Load class fields
+2014-10-01 12:50:26 INFO  Test:33 - 3. Exit from the program
+2014-10-01 12:50:49 INFO  Test:68 - class name is = com.epam.jmp.classloading.ClassToLoad2
+2014-10-01 12:50:49 INFO  Test:30 - Please, enter a number of an action you want...
+2014-10-01 12:50:49 INFO  Test:31 - 1. Load class name
+2014-10-01 12:50:49 INFO  Test:32 - 2. Load class fields
+2014-10-01 12:50:49 INFO  Test:33 - 3. Exit from the program
+2014-10-01 12:50:55 INFO  Test:60 - class fields are = [Ljava.lang.reflect.Field;@21832ae6
+2014-10-01 12:50:55 INFO  Test:30 - Please, enter a number of an action you want...
+2014-10-01 12:50:55 INFO  Test:31 - 1. Load class name
+2014-10-01 12:50:55 INFO  Test:32 - 2. Load class fields
+2014-10-01 12:50:55 INFO  Test:33 - 3. Exit from the program
+2014-10-01 12:51:54 INFO  Test:30 - Please, enter a number of an action you want...
+2014-10-01 12:51:54 INFO  Test:31 - 1. Load class name
+2014-10-01 12:51:54 INFO  Test:32 - 2. Load class fields
+2014-10-01 12:51:54 INFO  Test:33 - 3. Exit from the program
+2014-10-01 12:52:45 INFO  Test:68 - class name is = com.epam.jmp.classloading.ClassToLoad2
+2014-10-01 12:52:45 INFO  Test:30 - Please, enter a number of an action you want...
+2014-10-01 12:52:45 INFO  Test:31 - 1. Load class name
+2014-10-01 12:52:45 INFO  Test:32 - 2. Load class fields
+2014-10-01 12:52:45 INFO  Test:33 - 3. Exit from the program
+2014-10-01 12:52:53 ERROR Test:96 - Jar file initialization error.
+2014-10-01 12:52:53 INFO  Test:30 - Please, enter a number of an action you want...
+2014-10-01 12:52:53 INFO  Test:31 - 1. Load class name
+2014-10-01 12:52:53 INFO  Test:32 - 2. Load class fields
+2014-10-01 12:52:53 INFO  Test:33 - 3. Exit from the program
+2014-10-01 12:53:20 INFO  Test:68 - class name is = com.epam.jmp.classloading.ClassToLoad
+2014-10-01 12:53:20 INFO  Test:30 - Please, enter a number of an action you want...
+2014-10-01 12:53:20 INFO  Test:31 - 1. Load class name
+2014-10-01 12:53:20 INFO  Test:32 - 2. Load class fields
+2014-10-01 12:53:20 INFO  Test:33 - 3. Exit from the program
+2014-10-01 12:53:25 INFO  Test:60 - class fields are = [Ljava.lang.reflect.Field;@1bb0fed6
+2014-10-01 12:53:25 INFO  Test:30 - Please, enter a number of an action you want...
+2014-10-01 12:53:25 INFO  Test:31 - 1. Load class name
+2014-10-01 12:53:25 INFO  Test:32 - 2. Load class fields
+2014-10-01 12:53:25 INFO  Test:33 - 3. Exit from the program
