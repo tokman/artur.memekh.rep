@@ -1,3 +1,3 @@
-tokman_test_rep
+Artur Memekh's home repository.
 ===============
 Project description
