@@ -28,6 +28,10 @@ public class ClientFileDAO implements IClientDAO {
         this.resFile = resFile;
     }
 
+    public void setLastResFileModified(long lastResFileModified) {
+        this.lastResFileModified = lastResFileModified;
+    }
+
     @Override
     public void writeExpression(String exp) throws IOException {
 

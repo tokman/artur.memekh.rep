@@ -6277,3 +6277,146 @@
 2014-11-02 15:54:32 INFO  ClientFileDAO:58 - Result has been read from a file.
 2014-11-02 15:54:32 INFO  Run:44 - The result is '3.0'
 2014-11-02 15:54:32 INFO  Run:32 - Enter an expression to calculate or '0' to exit:
+2014-12-07 18:39:38 ERROR Test:23 - javax.persistence.Persistence
+2014-12-07 18:40:52 ERROR Test:23 - javax.persistence.Persistence
+2014-12-07 18:41:54 ERROR Test:23 - javax.persistence.Persistence
+2014-12-07 18:47:29 INFO  Version:37 - HCANN000001: Hibernate Commons Annotations {4.0.1.Final}
+2014-12-07 18:47:29 INFO  Version:41 - HHH000412: Hibernate Core {4.0.0.Final}
+2014-12-07 18:47:29 INFO  Environment:239 - HHH000206: hibernate.properties not found
+2014-12-07 18:47:29 INFO  Environment:342 - HHH000021: Bytecode provider name : javassist
+2014-12-07 18:50:00 INFO  Version:37 - HCANN000001: Hibernate Commons Annotations {4.0.1.Final}
+2014-12-07 18:50:00 INFO  Version:41 - HHH000412: Hibernate Core {4.0.0.Final}
+2014-12-07 18:50:00 INFO  Environment:239 - HHH000206: hibernate.properties not found
+2014-12-07 18:50:00 INFO  Environment:342 - HHH000021: Bytecode provider name : javassist
+2014-12-07 18:54:10 INFO  Version:37 - HCANN000001: Hibernate Commons Annotations {4.0.1.Final}
+2014-12-07 18:54:10 INFO  Version:41 - HHH000412: Hibernate Core {4.0.0.Final}
+2014-12-07 18:54:10 INFO  Environment:239 - HHH000206: hibernate.properties not found
+2014-12-07 18:54:10 INFO  Environment:342 - HHH000021: Bytecode provider name : javassist
+2014-12-07 18:57:58 INFO  Version:37 - HCANN000001: Hibernate Commons Annotations {4.0.1.Final}
+2014-12-07 18:57:58 INFO  Version:41 - HHH000412: Hibernate Core {4.0.0.Final}
+2014-12-07 18:57:58 INFO  Environment:239 - HHH000206: hibernate.properties not found
+2014-12-07 18:57:58 INFO  Environment:342 - HHH000021: Bytecode provider name : javassist
+2014-12-07 19:02:48 INFO  Version:37 - HCANN000001: Hibernate Commons Annotations {4.0.1.Final}
+2014-12-07 19:02:48 INFO  Version:41 - HHH000412: Hibernate Core {4.0.0.Final}
+2014-12-07 19:02:48 INFO  Environment:239 - HHH000206: hibernate.properties not found
+2014-12-07 19:02:48 INFO  Environment:342 - HHH000021: Bytecode provider name : javassist
+2014-12-07 19:02:49 WARN  RootClass:286 - HHH000038: Composite-id class does not override equals(): com.epam.jmp.jpa.EmployeePersonalInfo
+2014-12-07 19:02:49 WARN  RootClass:287 - HHH000039: Composite-id class does not override hashCode(): com.epam.jmp.jpa.EmployeePersonalInfo
+2014-12-07 19:03:16 INFO  Version:37 - HCANN000001: Hibernate Commons Annotations {4.0.1.Final}
+2014-12-07 19:03:16 INFO  Version:41 - HHH000412: Hibernate Core {4.0.0.Final}
+2014-12-07 19:03:16 INFO  Environment:239 - HHH000206: hibernate.properties not found
+2014-12-07 19:03:16 INFO  Environment:342 - HHH000021: Bytecode provider name : javassist
+2014-12-07 19:03:16 WARN  RootClass:286 - HHH000038: Composite-id class does not override equals(): com.epam.jmp.jpa.EmployeePersonalInfo
+2014-12-07 19:03:16 WARN  RootClass:287 - HHH000039: Composite-id class does not override hashCode(): com.epam.jmp.jpa.EmployeePersonalInfo
+2014-12-07 19:03:17 INFO  DriverManagerConnectionProviderImpl:90 - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2014-12-07 19:03:17 INFO  DriverManagerConnectionProviderImpl:110 - HHH000115: Hibernate connection pool size: 20
+2014-12-07 19:03:17 INFO  DriverManagerConnectionProviderImpl:113 - HHH000006: Autocommit mode: true
+2014-12-07 19:03:17 INFO  DriverManagerConnectionProviderImpl:127 - HHH000401: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/employee_db]
+2014-12-07 19:03:17 INFO  DriverManagerConnectionProviderImpl:132 - HHH000046: Connection properties: {autocommit=true, release_mode=auto}
+2014-12-07 19:03:18 WARN  JdbcServicesImpl:165 - HHH000342: Could not obtain connection to query metadata : Access denied for user ''@'localhost' to database 'employee_db'
+2014-12-07 19:03:18 INFO  Dialect:120 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2014-12-07 19:03:18 INFO  LobCreatorBuilder:85 - HHH000422: Disabling contextual LOB creation as connection was null
+2014-12-07 19:03:18 INFO  TransactionFactoryInitiator:73 - HHH000268: Transaction strategy: org.hibernate.engine.transaction.internal.jdbc.JdbcTransactionFactory
+2014-12-07 19:03:18 INFO  ASTQueryTranslatorFactory:48 - HHH000397: Using ASTQueryTranslatorFactory
+2014-12-07 19:05:44 INFO  Version:37 - HCANN000001: Hibernate Commons Annotations {4.0.1.Final}
+2014-12-07 19:05:44 INFO  Version:41 - HHH000412: Hibernate Core {4.0.0.Final}
+2014-12-07 19:05:44 INFO  Environment:239 - HHH000206: hibernate.properties not found
+2014-12-07 19:05:44 INFO  Environment:342 - HHH000021: Bytecode provider name : javassist
+2014-12-07 19:05:45 WARN  RootClass:286 - HHH000038: Composite-id class does not override equals(): com.epam.jmp.jpa.EmployeePersonalInfo
+2014-12-07 19:05:45 WARN  RootClass:287 - HHH000039: Composite-id class does not override hashCode(): com.epam.jmp.jpa.EmployeePersonalInfo
+2014-12-07 19:05:45 INFO  DriverManagerConnectionProviderImpl:90 - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2014-12-07 19:05:45 INFO  DriverManagerConnectionProviderImpl:110 - HHH000115: Hibernate connection pool size: 20
+2014-12-07 19:05:45 INFO  DriverManagerConnectionProviderImpl:113 - HHH000006: Autocommit mode: true
+2014-12-07 19:05:45 INFO  DriverManagerConnectionProviderImpl:127 - HHH000401: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/employee_db]
+2014-12-07 19:05:45 INFO  DriverManagerConnectionProviderImpl:132 - HHH000046: Connection properties: {user=root, password=****, autocommit=true, release_mode=auto}
+2014-12-07 19:05:45 WARN  JdbcServicesImpl:165 - HHH000342: Could not obtain connection to query metadata : Access denied for user 'root'@'localhost' (using password: YES)
+2014-12-07 19:05:45 INFO  Dialect:120 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2014-12-07 19:05:45 INFO  LobCreatorBuilder:85 - HHH000422: Disabling contextual LOB creation as connection was null
+2014-12-07 19:05:45 INFO  TransactionFactoryInitiator:73 - HHH000268: Transaction strategy: org.hibernate.engine.transaction.internal.jdbc.JdbcTransactionFactory
+2014-12-07 19:05:45 INFO  ASTQueryTranslatorFactory:48 - HHH000397: Using ASTQueryTranslatorFactory
+2014-12-07 19:08:39 INFO  Version:37 - HCANN000001: Hibernate Commons Annotations {4.0.1.Final}
+2014-12-07 19:08:39 INFO  Version:41 - HHH000412: Hibernate Core {4.0.0.Final}
+2014-12-07 19:08:39 INFO  Environment:239 - HHH000206: hibernate.properties not found
+2014-12-07 19:08:39 INFO  Environment:342 - HHH000021: Bytecode provider name : javassist
+2014-12-07 19:08:40 WARN  RootClass:286 - HHH000038: Composite-id class does not override equals(): com.epam.jmp.jpa.EmployeePersonalInfo
+2014-12-07 19:08:40 WARN  RootClass:287 - HHH000039: Composite-id class does not override hashCode(): com.epam.jmp.jpa.EmployeePersonalInfo
+2014-12-07 19:08:40 INFO  DriverManagerConnectionProviderImpl:90 - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2014-12-07 19:08:40 INFO  DriverManagerConnectionProviderImpl:110 - HHH000115: Hibernate connection pool size: 20
+2014-12-07 19:08:40 INFO  DriverManagerConnectionProviderImpl:113 - HHH000006: Autocommit mode: true
+2014-12-07 19:08:40 INFO  DriverManagerConnectionProviderImpl:127 - HHH000401: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/employee_db]
+2014-12-07 19:08:40 INFO  DriverManagerConnectionProviderImpl:132 - HHH000046: Connection properties: {user=root, password=****, autocommit=true, release_mode=auto}
+2014-12-07 19:08:41 INFO  Dialect:120 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2014-12-07 19:08:41 INFO  TransactionFactoryInitiator:73 - HHH000268: Transaction strategy: org.hibernate.engine.transaction.internal.jdbc.JdbcTransactionFactory
+2014-12-07 19:08:41 INFO  ASTQueryTranslatorFactory:48 - HHH000397: Using ASTQueryTranslatorFactory
+2014-12-07 19:19:52 INFO  Version:37 - HCANN000001: Hibernate Commons Annotations {4.0.1.Final}
+2014-12-07 19:19:52 INFO  Version:41 - HHH000412: Hibernate Core {4.0.0.Final}
+2014-12-07 19:19:52 INFO  Environment:239 - HHH000206: hibernate.properties not found
+2014-12-07 19:19:52 INFO  Environment:342 - HHH000021: Bytecode provider name : javassist
+2014-12-07 19:19:53 WARN  RootClass:286 - HHH000038: Composite-id class does not override equals(): com.epam.jmp.jpa.EmployeePersonalInfo
+2014-12-07 19:19:53 WARN  RootClass:287 - HHH000039: Composite-id class does not override hashCode(): com.epam.jmp.jpa.EmployeePersonalInfo
+2014-12-07 19:19:53 INFO  DriverManagerConnectionProviderImpl:90 - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2014-12-07 19:19:53 INFO  DriverManagerConnectionProviderImpl:110 - HHH000115: Hibernate connection pool size: 20
+2014-12-07 19:19:53 INFO  DriverManagerConnectionProviderImpl:113 - HHH000006: Autocommit mode: true
+2014-12-07 19:19:53 INFO  DriverManagerConnectionProviderImpl:127 - HHH000401: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/employee_db]
+2014-12-07 19:19:53 INFO  DriverManagerConnectionProviderImpl:132 - HHH000046: Connection properties: {user=root, password=****, autocommit=true, release_mode=auto}
+2014-12-07 19:19:54 INFO  Dialect:120 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2014-12-07 19:19:54 INFO  TransactionFactoryInitiator:73 - HHH000268: Transaction strategy: org.hibernate.engine.transaction.internal.jdbc.JdbcTransactionFactory
+2014-12-07 19:19:54 INFO  ASTQueryTranslatorFactory:48 - HHH000397: Using ASTQueryTranslatorFactory
+2014-12-07 19:20:08 INFO  Test:30 - com.epam.jmp.jpa.Employee@1fe48c2 employee has been found
+2014-12-07 19:22:10 INFO  Version:37 - HCANN000001: Hibernate Commons Annotations {4.0.1.Final}
+2014-12-07 19:22:10 INFO  Version:41 - HHH000412: Hibernate Core {4.0.0.Final}
+2014-12-07 19:22:10 INFO  Environment:239 - HHH000206: hibernate.properties not found
+2014-12-07 19:22:10 INFO  Environment:342 - HHH000021: Bytecode provider name : javassist
+2014-12-07 19:22:11 WARN  RootClass:286 - HHH000038: Composite-id class does not override equals(): com.epam.jmp.jpa.EmployeePersonalInfo
+2014-12-07 19:22:11 WARN  RootClass:287 - HHH000039: Composite-id class does not override hashCode(): com.epam.jmp.jpa.EmployeePersonalInfo
+2014-12-07 19:22:11 INFO  DriverManagerConnectionProviderImpl:90 - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2014-12-07 19:22:11 INFO  DriverManagerConnectionProviderImpl:110 - HHH000115: Hibernate connection pool size: 20
+2014-12-07 19:22:11 INFO  DriverManagerConnectionProviderImpl:113 - HHH000006: Autocommit mode: true
+2014-12-07 19:22:11 INFO  DriverManagerConnectionProviderImpl:127 - HHH000401: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/employee_db]
+2014-12-07 19:22:11 INFO  DriverManagerConnectionProviderImpl:132 - HHH000046: Connection properties: {user=root, password=****, autocommit=true, release_mode=auto}
+2014-12-07 19:22:11 INFO  Dialect:120 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2014-12-07 19:22:11 INFO  TransactionFactoryInitiator:73 - HHH000268: Transaction strategy: org.hibernate.engine.transaction.internal.jdbc.JdbcTransactionFactory
+2014-12-07 19:22:11 INFO  ASTQueryTranslatorFactory:48 - HHH000397: Using ASTQueryTranslatorFactory
+2014-12-07 19:22:17 INFO  Test:30 - com.epam.jmp.jpa.Employee@67fa7ca8 employee has been found
+2014-12-07 19:22:20 INFO  Test:32 - com.epam.jmp.jpa.Unit@4aa777ea employee has been found
+2014-12-07 19:22:22 INFO  Test:34 - com.epam.jmp.jpa.Project@6567749c employee has been found
+2014-12-07 19:22:26 WARN  SqlExceptionHelper:143 - SQL Error: 1146, SQLState: 42S02
+2014-12-07 19:22:26 ERROR SqlExceptionHelper:144 - Table 'employee_db.employeepersonalinfo' doesn't exist
+2014-12-07 19:22:26 INFO  DefaultLoadEventListener:156 - HHH000327: Error performing load command : org.hibernate.exception.SQLGrammarException: Table 'employee_db.employeepersonalinfo' doesn't exist
+2014-12-07 19:23:49 INFO  Version:37 - HCANN000001: Hibernate Commons Annotations {4.0.1.Final}
+2014-12-07 19:23:49 INFO  Version:41 - HHH000412: Hibernate Core {4.0.0.Final}
+2014-12-07 19:23:49 INFO  Environment:239 - HHH000206: hibernate.properties not found
+2014-12-07 19:23:49 INFO  Environment:342 - HHH000021: Bytecode provider name : javassist
+2014-12-07 19:23:50 WARN  RootClass:286 - HHH000038: Composite-id class does not override equals(): com.epam.jmp.jpa.EmployeePersonalInfo
+2014-12-07 19:23:50 WARN  RootClass:287 - HHH000039: Composite-id class does not override hashCode(): com.epam.jmp.jpa.EmployeePersonalInfo
+2014-12-07 19:23:50 INFO  DriverManagerConnectionProviderImpl:90 - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2014-12-07 19:23:50 INFO  DriverManagerConnectionProviderImpl:110 - HHH000115: Hibernate connection pool size: 20
+2014-12-07 19:23:50 INFO  DriverManagerConnectionProviderImpl:113 - HHH000006: Autocommit mode: true
+2014-12-07 19:23:50 INFO  DriverManagerConnectionProviderImpl:127 - HHH000401: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/employee_db]
+2014-12-07 19:23:50 INFO  DriverManagerConnectionProviderImpl:132 - HHH000046: Connection properties: {user=root, password=****, autocommit=true, release_mode=auto}
+2014-12-07 19:23:50 INFO  Dialect:120 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2014-12-07 19:23:50 INFO  TransactionFactoryInitiator:73 - HHH000268: Transaction strategy: org.hibernate.engine.transaction.internal.jdbc.JdbcTransactionFactory
+2014-12-07 19:23:50 INFO  ASTQueryTranslatorFactory:48 - HHH000397: Using ASTQueryTranslatorFactory
+2014-12-07 19:23:52 INFO  Test:30 - com.epam.jmp.jpa.Employee@6f261d52 employee has been found
+2014-12-07 19:23:52 INFO  Test:32 - com.epam.jmp.jpa.Unit@a8c63fd employee has been found
+2014-12-07 19:23:52 INFO  Test:34 - com.epam.jmp.jpa.Project@417b66b1 employee has been found
+2014-12-07 19:23:56 WARN  SqlExceptionHelper:143 - SQL Error: 1054, SQLState: 42S22
+2014-12-07 19:23:56 ERROR SqlExceptionHelper:144 - Unknown column 'employee0_.status' in 'field list'
+2014-12-07 19:23:56 INFO  DefaultLoadEventListener:156 - HHH000327: Error performing load command : org.hibernate.exception.SQLGrammarException: Unknown column 'employee0_.status' in 'field list'
+2014-12-07 19:30:37 INFO  Version:37 - HCANN000001: Hibernate Commons Annotations {4.0.1.Final}
+2014-12-07 19:30:37 INFO  Version:41 - HHH000412: Hibernate Core {4.0.0.Final}
+2014-12-07 19:30:37 INFO  Environment:239 - HHH000206: hibernate.properties not found
+2014-12-07 19:30:37 INFO  Environment:342 - HHH000021: Bytecode provider name : javassist
+2014-12-07 19:30:38 WARN  RootClass:286 - HHH000038: Composite-id class does not override equals(): com.epam.jmp.jpa.EmployeePersonalInfo
+2014-12-07 19:30:38 WARN  RootClass:287 - HHH000039: Composite-id class does not override hashCode(): com.epam.jmp.jpa.EmployeePersonalInfo
+2014-12-07 19:30:38 INFO  DriverManagerConnectionProviderImpl:90 - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2014-12-07 19:30:38 INFO  DriverManagerConnectionProviderImpl:110 - HHH000115: Hibernate connection pool size: 20
+2014-12-07 19:30:38 INFO  DriverManagerConnectionProviderImpl:113 - HHH000006: Autocommit mode: true
+2014-12-07 19:30:38 INFO  DriverManagerConnectionProviderImpl:127 - HHH000401: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/employee_db]
+2014-12-07 19:30:38 INFO  DriverManagerConnectionProviderImpl:132 - HHH000046: Connection properties: {user=root, password=****, autocommit=true, release_mode=auto}
+2014-12-07 19:30:39 INFO  Dialect:120 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2014-12-07 19:30:39 INFO  TransactionFactoryInitiator:73 - HHH000268: Transaction strategy: org.hibernate.engine.transaction.internal.jdbc.JdbcTransactionFactory
+2014-12-07 19:30:39 INFO  ASTQueryTranslatorFactory:48 - HHH000397: Using ASTQueryTranslatorFactory
+2014-12-07 19:30:39 INFO  Test:30 - com.epam.jmp.jpa.Employee@5c9c0715 employee has been found
+2014-12-07 19:30:39 INFO  Test:32 - com.epam.jmp.jpa.Unit@26022b68 employee has been found
+2014-12-07 19:30:39 INFO  Test:34 - com.epam.jmp.jpa.Project@649a7be7 employee has been found

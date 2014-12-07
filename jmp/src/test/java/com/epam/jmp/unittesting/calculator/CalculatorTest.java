@@ -1,5 +1,6 @@
 package com.epam.jmp.unittesting.calculator;
 
+import org.junit.Assert;
 import org.junit.Test;
 
 /**
@@ -10,8 +11,12 @@ import org.junit.Test;
  */
 public class CalculatorTest {
 
+    // TODO: write mock to generate various expressions
     @Test
-    public static final double calculate(String exp) {
+    public void calculate() {
 
+        String exp = "5+5";
+        double res = Calculator.calculate(exp);
+        Assert.assertEquals(res, 10, 1e-3);
     }
 }

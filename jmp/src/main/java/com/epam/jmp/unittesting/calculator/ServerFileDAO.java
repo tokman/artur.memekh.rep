@@ -28,6 +28,10 @@ public class ServerFileDAO implements IServerDAO {
         this.resFile = resFile;
     }
 
+    public void setLastExpFileModified(long lastExpFileModified) {
+        this.lastExpFileModified = lastExpFileModified;
+    }
+
     @Override
     public void writeResult(double res) throws IOException {
 
