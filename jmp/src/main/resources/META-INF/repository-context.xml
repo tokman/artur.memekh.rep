@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+            xsi:schemaLocation="
+                http://www.springframework.org/schema/beans
+                http://www.springframework.org/schema/beans/spring-beans-3.0.xsd">
+
+    <bean class="org.springframework.beans.factory.config.PropertyPlaceholderConfigurer">
+        <property name="locations" value="classpath:spring.properties"/>
+    </bean>
+
+    <bean id="userRepository" class="com.epam.jmp.spring.repository.UserRepository"
+          factory-bean="userRepositoryFactory"
+          factory-method="createUserRepository" />
+
+    <bean id="userRepositoryFactory" class="com.epam.jmp.spring.repository.UserRepositoryFactory" />
+
+    <bean id="orderRepository" class="com.epam.jmp.spring.repository.OrderRepository">
+        <constructor-arg value="${initialSequence}"/>
+    </bean>
+</beans>
