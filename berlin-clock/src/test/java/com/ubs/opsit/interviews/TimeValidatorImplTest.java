@@ -19,6 +19,16 @@ public class TimeValidatorImplTest {
     }
 
     @Test
+    public void testTimeIsValid() {
+
+        String aTime = "01:39:55";
+
+        boolean result = timeValidator.isTimeValid(aTime);
+
+        assertTrue(result);
+    }
+
+    @Test
     public void testTimeLengthInvalid() {
 
         String aTime = "11:22:33:44";
