@@ -1,6 +1,5 @@
 package com.lankydan.rest.person;
 
-import com.lankydan.repository.membership.exception.GymMembershipNotFoundException;
 import com.lankydan.respository.person.exception.PersonNotFoundException;
 import org.springframework.hateoas.VndErrors;
 import org.springframework.http.HttpStatus;
